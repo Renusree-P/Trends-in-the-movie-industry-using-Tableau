@@ -64,7 +64,7 @@ The dataset for this project has been obtained from Kaggle.
 
 #### Findings
 1) Evolution: Both the budget and gross earnings are increasing overtime. The gross earnings are raising more rapidly.
-2) Genre Impact:  Genres like animation and family movies having a much larger gap between the movie budget and its gross earnings.
+2) Genre Impact:  Genres like animation and family movies are having a much larger gap between the movie budget and its gross earnings.
 3) Star Impact: Stars certainly had some impact on the movie warnings. But this is not only a single factor influencing the movie earnings.
 4) Viewership and Movie ratings:  G rated movies had drastic changes in viewership.
 5) Seasinal trends: The months with the most movie viewership are the summer months of May, June, and July as well as the winter months around Thanksgiving and Christmas in November and December.
