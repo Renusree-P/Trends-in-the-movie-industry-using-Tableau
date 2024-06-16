@@ -43,7 +43,7 @@ The dataset for this project has been obtained from Kaggle.
   There are some missing values in the data. Instead of having those spaces have a value of 0, we just set them as null cells, so they would not impact measurements such as mean.
   
 - #### Extracting Month column:
-  The data consisted the release date of the movie in the form of month, day and year. So, to get only the release month, we created a new column using flash fill of Excel.
+  The data consisted the release date of the movie in the form of month, day and year. So, to get only the release month, we created a new column using flash fill tool of Excel.
   
 - #### Visualizatio tools:
   Used tableau to construct visualizations. The various visualizations used in this project include Bubble charts, Bar charts, Pie charts, Line charts, Circle views, Scatterplot, Comparison charts.
@@ -63,5 +63,11 @@ The dataset for this project has been obtained from Kaggle.
 5) Is there a time during the year that people are more likely to go to a theater to watch a movie? What are some explanations for these results?
 
 #### Findings
+1) Evolution: Both the budget and gross earnings are increasing overtime. The gross earnings are raising more rapidly.
+2) Genre Impact:  Genres like animation and family movies having a much larger gap between the movie budget and its gross earnings.
+3) Star Impact: Stars certainly had some impact on the movie warnings. But this is not only a single factor influencing the movie earnings.
+4) Viewership and Movie ratings:  G rated movies had drastic changes in viewership.
+5) Seasinal trends: The months with the most movie viewership are the summer months of May, June, and July as well as the winter months around Thanksgiving and Christmas in November and December.
+   
 #### Limitations
 #### Future Work
