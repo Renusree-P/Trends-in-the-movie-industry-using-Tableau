@@ -39,6 +39,18 @@ The dataset for this project has been obtained from Kaggle.
 - The dataset contains 7669 unique entries from 1980 to 2022.
   
 #### Methodology
+- #### Data Cleaning:
+  There are some missing values in the data. Instead of having those spaces have a value of 0, we just set them as null cells, so they would not impact measurements such as mean.
+  
+- #### Extracting Month column:
+  The data consisted the release date of the movie in the form of month, day and year. So, to get only the release month, we created a new column using flash fill of Excel.
+  
+- #### Visualizatio tools:
+  Used tableau to construct visualizations. The various visualizations used in this project include Bubble charts, Bar charts, Pie charts, Line charts, Circle views, Scatterplot, Comparison charts.
+
+- #### Assumptions:
+  Throughout this project, we used project votes to represent trends in the number of movie watchers. It was an assumption we made that they would follow the same trends.
+
 #### Research Questions
 1) Overall, what has been the evolution of the movie industry, specifically in measured values such as budget, gross earnings, viewership, and runtime?
 
