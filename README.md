@@ -70,4 +70,8 @@ The dataset for this project has been obtained from Kaggle.
 5) Seasinal trends: The months with the most movie viewership are the summer months of May, June, and July as well as the winter months around Thanksgiving and Christmas in November and December.
    
 #### Limitations
+- Qualitative factors: all the factors effecting movies are nit captured.
+
 #### Future Work
+- Real-Time Data Integration: The dashboard must be integrated eith real-time data to keep it updated.
+- User feedback - there must be a mechanism to receive constant user feedback for continuous improvement.
