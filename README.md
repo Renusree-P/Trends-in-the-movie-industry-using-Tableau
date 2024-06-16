@@ -40,6 +40,16 @@ The dataset for this project has been obtained from Kaggle.
   
 #### Methodology
 #### Research Questions
+1) Overall, what has been the evolution of the movie industry, specifically in measured values such as budget, gross earnings, viewership, and runtime?
+
+2) What is the relationship between movie budget and movie gross? Does that relationship change when adding genre as an additional factor?
+
+3) Which movie stars are most likely to result in a high grossing movie?
+
+4) Is there a relationship between how many viewers a movie is getting and the movie rating? How has views for each rating changed over time?
+
+5) Is there a time during the year that people are more likely to go to a theater to watch a movie? What are some explanations for these results?
+
 #### Findings
 #### Limitations
 #### Future Work
