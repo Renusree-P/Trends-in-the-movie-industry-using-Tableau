@@ -45,7 +45,7 @@ The dataset for this project has been obtained from Kaggle.
 - #### Extracting Month column:
   The data consisted the release date of the movie in the form of month, day and year. So, to get only the release month, we created a new column using flash fill tool of Excel.
   
-- #### Visualizatio tools:
+- #### Visualization tools:
   Used tableau to construct visualizations. The various visualizations used in this project include Bubble charts, Bar charts, Pie charts, Line charts, Circle views, Scatterplot, Comparison charts.
 
 - #### Assumptions:
